@@ -1,0 +1,6 @@
+.bluetick{
+    filter:invert(43%) sepia(97%) saturate(761%) hue-rotate(157deg) brightness(93%) contrast(103%);
+}
+.group{
+    cursor: pointer;
+}
